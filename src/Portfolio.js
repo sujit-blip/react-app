@@ -236,13 +236,13 @@ const Portfolio = () => {
      <footer className="footer">
         <div className="footer-container">
           <div className="footer-bottom">
-            <p>© 2024 Sujit Sawant. All rights reserved.
             <div className="footer-social">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub</a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">Twitter</a>
+            <p>© 2024 Sujit Sawant.</p>
+            <a href="https://github.com" target="_blank" rel="noopener noreferrer"> <Github size={20} /></a>
+            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"> <Linkedin size={20} /></a>
+            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer"> <Twitter size={20} /></a>
           </div>
-            </p>
+            
           </div>
         </div>
       </footer>
