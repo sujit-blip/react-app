@@ -238,9 +238,9 @@ const Portfolio = () => {
           <div className="footer-bottom">
             <div className="footer-social">
             <p>© 2024 Sujit Sawant.</p>
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer"> <Github size={20} /></a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"> <Linkedin size={20} /></a>
-            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer"> <Twitter size={20} /></a>
+            <a href="https://github.com/sujit-blip" target="_blank" rel="noopener noreferrer"> <Github size={20} /></a>
+            <a href="https://shorturl.at/s85PQ" target="_blank" rel="noopener noreferrer"> <Linkedin size={20} /></a>
+            <a href="https://x.com/Sujitsawan54219" target="_blank" rel="noopener noreferrer"> <Twitter size={20} /></a>
           </div>
             
           </div>
