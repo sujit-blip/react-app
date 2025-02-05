@@ -631,7 +631,7 @@ body {
 
 @media screen and (max-width: 992px) {
   .hero-content {
-    flex-direction: column;
+    flex-direction: column-reverse;
     text-align: center;
     margin-top: 2rem;
   }
